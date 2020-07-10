@@ -36,4 +36,11 @@ export class InfoPaginaService {
   private newMethod(){
       
   }
-}
+}dszvfgbnhj-ñ.kj}j}
+
+
+
+kighjjhhjg
+
+var:
+hj
